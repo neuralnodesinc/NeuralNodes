@@ -2,9 +2,8 @@
 
 ![neuralnodesbanner](https://github.com/user-attachments/assets/e9565270-9b2b-4f4a-91b2-7c2de0d4d4b3)
 
-# **Introduction**
+# **Introducing NeuralNodes**
 
-***Welcome to NeuralNodes***
 
 NeuralNodes is a next-generation blockchain token designed to revolutionize decentralized finance (DeFi) by combining artificial intelligence (AI) with Solana's robust infrastructure. Our platform empowers investors with real-time analytics, adaptive tools, and a dynamic ecosystem that ensures smarter investment strategies. NeuralNodes is not just another token—it’s a vision for the future of intelligent finance.
 
