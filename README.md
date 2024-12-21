@@ -134,8 +134,6 @@ Utilize our AI-powered tools to make informed decisions and optimize your invest
 Stake tokens, participate in governance, and earn rewards while contributing to the platform's development. Your engagement strengthens the ecosystem and unlocks exclusive benefits and opportunities. Rewards include staking bonuses, limited-edition NFTs, and access to beta features.
 
 
-![neuralnodes](https://github.com/user-attachments/assets/92b829a8-3ae6-4454-8f2b-0f142eae9977)
-
 
 # The NeuralNodes Ecosystem
 
