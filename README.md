@@ -25,6 +25,10 @@ We envision a world where blockchain ecosystems adapt and grow with their users,
 
 The integration of AI and blockchain represents more than just technological advancement; it symbolizes a shift in how we perceive and utilize financial tools. NeuralNodes is committed to ensuring that these technologies are not only accessible but also impactful, shaping the future of DeFi for generations to come.
 
+
+![neuralnodesbanner](https://github.com/user-attachments/assets/e9565270-9b2b-4f4a-91b2-7c2de0d4d4b3)
+
+
 ```
 import numpy as np
 
