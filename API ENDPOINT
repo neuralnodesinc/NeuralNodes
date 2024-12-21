@@ -1,0 +1,15 @@
+const express = require("express");
+const app = express();
+
+app.get("/api/token-info", (req, res) => {
+    res.json({
+        name: "NeuralNodes",
+        symbol: "NNT",
+        totalSupply: "1,000,000,000",
+        network: "Solana",
+    });
+});
+
+app.listen(3000, () => {
+    console.log("API running on http://localhost:3000");
+});
