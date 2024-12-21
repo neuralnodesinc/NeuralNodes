@@ -1,6 +1,8 @@
 # NeuralNodes: Revolutionizing Decentralized Finance with AI
 
-![neuralnodesbanner](https://github.com/user-attachments/assets/e9565270-9b2b-4f4a-91b2-7c2de0d4d4b3)
+
+![neuralnodes](https://github.com/user-attachments/assets/92b829a8-3ae6-4454-8f2b-0f142eae9977)
+
 
 # **Introducing NeuralNodes**
 
