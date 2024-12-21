@@ -1,0 +1,17 @@
+{
+    "projectName": "NeuralNodes",
+    "network": "Solana",
+    "token": {
+        "name": "NeuralNodes",
+        "symbol": "NNT",
+        "decimals": 18,
+        "totalSupply": "1000000000"
+    },
+    "api": {
+        "baseUrl": "https://api.neuralnodes.com",
+        "endpoints": {
+            "tokenInfo": "/token-info",
+            "marketTrends": "/market-trends"
+        }
+    }
+}
